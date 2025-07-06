@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All American Midwest Cards LLC</title>
+    <link rel="icon" href="your-favicon-link-here" type="image/png">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #002868;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header img {
+            max-width: 200px;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: white;
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #002868;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 10px;
+        }
+        a {
+            color: #002868;
+        }
+        .button {
+            background-color: #002868;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .social-icons img {
+            width: 40px;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="All American Midwest Cards LLC (logo).png" alt="All American Midwest Cards LLC Logo">
+    <h1>All American Midwest Cards LLC</h1>
+    <p>Affordable Sports Cards & Collectibles for All Ages</p>
+</header>
+
+<section>
+    <h2>Mission Statement</h2>
+    <p>At All American Midwest Cards LLC, our mission is to make collecting sports cards and collectibles affordable and fun for kids of all ages, just like it was for us growing up. We believe in giving today’s youth the same excitement we felt buying packs with our hard-earned mowing money, and we’d rather see kids spend their dollars on sports cards than on drugs or distractions that lead them astray. We’re not here to get rich off sports cards. We’re here to build community, share the joy of collecting, and help everyone enjoy the hobby responsibly while having a lot of fun along the way.</p>
+</section>
+
+<section>
+    <h2>Our Goal</h2>
+    <p>At All American Midwest Cards LLC, our goal is simple: To enjoy what we do while providing great products and great service with pride to collectors of all ages. We take pride in offering quality sports cards and collectibles at fair prices while treating every customer with honesty and respect, making the hobby fun and accessible for everyone.</p>
+</section>
+
+<section>
+    <h2>Featured Brands</h2>
+    <ul>
+        <li>Topps</li>
+        <li>Panini</li>
+        <li>Pokémon</li>
+        <li>Magic: The Gathering</li>
+        <li>Yu-Gi-Oh!</li>
+        <li>Ultra PRO</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Shop With Us</h2>
+    <a href="your-ebay-store-link-here" class="button">Visit Our eBay Store</a>
+    <p>We offer singles, packs, boxes, and collectible supplies to make your collecting experience fun and affordable.</p>
+</section>
+
+<section>
+    <h2>Gallery</h2>
+    <p>Check out our collection and community photos. <a href="your-gallery-link-here">View Gallery</a></p>
+</section>
+
+<section>
+    <h2>Our Progress</h2>
+    <p>Founded: June 20, 2025 – Follow our journey as we grow and help more collectors find the cards they love.</p>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:allamericanmidwestcards@gmail.com">allamericanmidwestcards@gmail.com</a></p>
+</section>
+
+<section>
+    <h2>Follow Us</h2>
+    <div class="social-icons">
+        <a href="your-facebook-link-here"><img src="facebook-icon-link-here" alt="Facebook"></a>
+        <a href="your-instagram-link-here"><img src="instagram-icon-link-here" alt="Instagram"></a>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2025 All American Midwest Cards LLC. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
