@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>All American Midwest Cards LLC</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: linear-gradient(#b22234, #ffffff, #3c3b6e);
+        color: #000;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        text-align: center;
+        padding: 20px;
+        background-color: #fff;
+    }
+    header img {
+        max-width: 200px;
+        height: auto;
+    }
+    nav {
+        display: flex;
+        justify-content: center;
+        background-color: #b22234;
+        flex-wrap: wrap;
+    }
+    nav a {
+        color: white;
+        padding: 10px 15px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    nav a:hover {
+        background-color: #800000;
+    }
+    .gallery {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 10px;
+    }
+    .gallery img {
+        width: 300px;
+        height: auto;
+        margin: 10px;
+        border: 3px solid #fff;
+        border-radius: 8px;
+    }
+    .qa-section {
+        background-color: #fff;
+        padding: 20px;
+        margin: 20px;
+        border-radius: 8px;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .qa-section input, .qa-section button {
+        width: 100%;
+        padding: 10px;
+        margin-top: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        font-size: 16px;
+    }
+    footer {
+        text-align: center;
+        padding: 10px;
+        background-color: #b22234;
+        color: white;
+    }
+</style>
+</head>
+<body>
+
+<header>
+    <img src="all-american-midwest-cards-llc.png" alt="All American Midwest Cards LLC Logo">
+    <h1>All American Midwest Cards LLC</h1>
+    <p>Established July 5, 2025</p>
+</header>
+
+<nav>
+    <a href="#">Topps</a>
+    <a href="#">Panini</a>
+    <a href="#">Pokémon</a>
+    <a href="#">Magic</a>
+    <a href="#">Ultra Pro</a>
+    <a href="#">Yu-Gi-Oh!</a>
+</nav>
+
+<div class="gallery">
+    <img src="farm-placeholder.jpg" alt="Farm">
+    <img src="stadium-placeholder.jpg" alt="Stadium">
+</div>
+
+<div class="qa-section">
+    <h2>Questions & Answers</h2>
+    <input type="text" placeholder="Enter your question here...">
+    <button>Submit Question</button>
+    <p style="margin-top:20px; font-weight: bold;">Example Q&A:</p>
+    <p><strong>Q: Do you buy singles from the 1995/96 NBA season?</strong><br>
+    A: Yes, we are looking to purchase basketball cards from that season.</p>
+</div>
+
+<footer>
+    &copy; 2025 All American Midwest Cards LLC. All rights reserved.
+</footer>
+
+</body>
+</html>
